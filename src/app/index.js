@@ -1,0 +1,1 @@
+// (configura o Express: json, rotas, middlewares globais)
